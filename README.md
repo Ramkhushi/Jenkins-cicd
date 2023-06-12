@@ -498,14 +498,5 @@ Simplilearn is not responsible for the content or materials provided in this rep
 It is important to understand that this repository contains educational materials for a training course, and users are expected to apply their own judgment and discretion when utilizing the provided resources. Neither Varun Kumar Manik nor Simplilearn can guarantee specific results or outcomes from following the materials in this repository.
 
 
-## Connect & Follow
 
-For more info, please connect and follow me:
-
-- Github: [https://github.com/manikcloud](https://github.com/manikcloud)
-- LinkedIn: [https://www.linkedin.com/in/vkmanik/](https://www.linkedin.com/in/vkmanik/)
-- Email: [varunmanik1@gmail.com](mailto:varunmanik1@gmail.com)
-- Facebook: [https://www.facebook.com/cloudvirtualization/](https://www.facebook.com/cloudvirtualization/)
-- YouTube: [https://bit.ly/32fknRN](https://bit.ly/32fknRN)
-- Twitter: [https://twitter.com/varunkmanik](https://twitter.com/varunkmanik)
 
